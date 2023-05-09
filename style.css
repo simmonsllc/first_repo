@@ -282,7 +282,7 @@ footer > div {
     justify-content: space-between;
   }
 
-  .items > li {
+  .items li {
     flex-basis: 224px;
   }
 
